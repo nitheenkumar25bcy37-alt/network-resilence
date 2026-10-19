@@ -1,6 +1,6 @@
 ﻿# Network Resilience Analyzer
 
-An intermediate ITW III course project that models a communication network, identifies important devices using graph centrality, and compares random device failures with targeted removals.
+Python course project that models a communication network, identifies important devices using graph centrality, and compares random device failures with targeted removals.
 
 ## Files
 
